@@ -17,7 +17,7 @@
 `М.Тех_Данные_к_ТЗ_DS.csv` - наобходимый для дефолтной работы файл
 
 
-## Код для Docker (необходим нормальный Linux)
+## Код для Docker (Deploy Streamlit используя Docker на Windows провести не получилось на этапе запуска докера с ВЛС)
 `Dockerfile`  
 `requirements.txt`
 
