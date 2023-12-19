@@ -1,10 +1,10 @@
 # Загрузка библиотек
 import pandas as pd
-
-import streamlit as st
 import re
 from io import StringIO
 from scipy import stats as scst
+
+import streamlit as st
 
 
 
