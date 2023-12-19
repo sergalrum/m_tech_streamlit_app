@@ -25,4 +25,5 @@
 ![image](https://github.com/sergalrum/m_tech_streamlit_app/assets/140008669/ff11df02-c05e-43d5-9d5f-afa9d704d4cf)
 
 ## Пример локальной работы с загруженными данными и измененными параметрами
-![image](https://github.com/sergalrum/m_tech_streamlit_app/assets/140008669/a4019542-eb9d-4aaf-9dc8-a82ebe981a06)
+![image](https://github.com/sergalrum/m_tech_streamlit_app/assets/140008669/707a500d-3f7b-42d5-a0b3-d0f8f3a32204)
+
